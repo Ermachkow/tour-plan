@@ -586,7 +586,7 @@ template {
   }
 
   .stars {
-    flex-basis: content;
+    flex-basis: auto;
   }
 
   .hotel-name {
